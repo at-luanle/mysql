@@ -1,0 +1,7 @@
+### 3. Xoá và sửa1 dòng dữ liệu trong bất kỳ table nào
+a. delete by id = 4
+delete from category where id = 4;
+b. update by id = 3
+update category
+set title = 'Sam Sung Galaxy S8'
+where id = 3;
